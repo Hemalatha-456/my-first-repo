@@ -1,1 +1,4 @@
 creating a file in GitHub
+Name: K HemaLatha
+Course: BSc Computer science
+What I learned: We can access the repositories easily
